@@ -2,7 +2,7 @@ import Head from "next/head";
 import { Fragment } from "react";
 import "../styles/globals.css";
 
-import "../gold.css";
+import "../vercel/path0/pages/gold.css";
 
 function MyApp({ Component, pageProps }) {
   return (
